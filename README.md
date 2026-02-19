@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zain</h1>
 <h3 align="center">🚀 DevOps Engineer in Progress | Linux Enthusiast | Cloud Learner</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=DevOps+Engineer;Linux+Enthusiast;Cloud+Learner;Always+Learning+New+Things">
+</p>
+
 
 ---
 
@@ -12,6 +16,10 @@
 ---
 
 ## 🛠️ Tech Stack
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
 - 💻 Linux
 - 🔄 Git & GitHub
 - ☁️ AWS (EC2, S3, IAM)
